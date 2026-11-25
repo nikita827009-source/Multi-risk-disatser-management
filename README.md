@@ -24,16 +24,16 @@ An integrated multimodal AI platform for multi-disaster perception, geospatial h
 ## 📸 Dashboard Preview
 
 **Geospatial Risk Map & Density Heatmap**
-![Geospatial Risk Map](scratch_tab1_new.png)
+![Geospatial Risk Map](dashboard_geospatial_map.png)
 
 **Risk Analytics & Severity Rankings**
-![Risk Analytics](scratch_tab2.png)
+![Risk Analytics](dashboard_risk_analytics.png)
 
 **Resource Logistics & Allocation**
-![Resource Logistics](scratch_tab3.png)
+![Resource Logistics](dashboard_resource_logistics.png)
 
 **Zone Data Explorer**
-![Zone Data Explorer](scratch_tab4.png)
+![Zone Data Explorer](dashboard_zone_data_explorer.png)
 
 ---
 
