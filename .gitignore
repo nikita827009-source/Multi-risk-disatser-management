@@ -1,0 +1,6 @@
+venv/
+activate/
+scripts/
+__pycache__/
+*.pyc
+.claude/
