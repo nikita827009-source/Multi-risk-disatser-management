@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+streamlit
+folium
+streamlit-folium
+plotly
+gymnasium
+stable-baselines3
+torch
